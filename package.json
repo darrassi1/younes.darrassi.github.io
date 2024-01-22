@@ -2,7 +2,7 @@
   "name": "younes-darrassi-portfolio",
   "version": "2.0.0",
   "private": true,
-  "homepage": "https://younes.darrassi.github.io/",
+  "homepage": "https://darrassi1.github.io/",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
