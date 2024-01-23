@@ -114,9 +114,11 @@ function About() {
             <div className="w-20 md:w-28 my-4 bg-white rounded-full">
                 <img className="w-full" src="./images/logos/bitmoji.png" alt="Younes Darrassi Logo" />
             </div>
-            <div className=" mt-4 md:mt-8 text-lg md:text-2xl text-center px-1">
-                <div>my name is <span className="font-bold">Younes Darrassi</span> ,</div>
-                   <div className="font-normal ml-1">I'm a <span className="text-pink-600 font-bold">Eleve Ingenieur</span> in cloud and DevOps</div>
+            <div>
+              My name is <span className="font-bold">Younes Darrassi</span>,
+            </div>
+            <div className="font-normal ml-1">
+              I'm an <span className="text-pink-600 font-bold">engineering student</span> in computer science, specializing in cloud, DevOps, and development.
             </div>
             <div className=" mt-4 relative md:my-8 pt-px bg-white w-32 md:w-48">
                 <div className="bg-white absolute rounded-full p-0.5 md:p-1 top-0 transform -translate-y-1/2 left-0"></div>
