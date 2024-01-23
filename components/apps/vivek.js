@@ -103,10 +103,10 @@ export class AboutYounesDarrassi extends Component {
     }
 }
 
-export default AboutVivek;
+export default AboutYounesDarrassi;
 
 export const displayAboutVivek = () => {
-    return <AboutVivek />;
+    return <AboutYounesDarrassi />;
 }
 
 
