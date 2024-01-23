@@ -212,6 +212,7 @@ function Skills() {
                 <div className="px-2 flex flex-wrap items-start w-1/2">
                     <div className="flex flex-wrap justify-center items-start w-full mt-2">
                         <img className="m-1" src="https://img.shields.io/badge/-Spring%20Boot-%236DB33F?style=flat&logo=spring-boot&logoColor=white&labelColor=%236DB33F&color=%236DB33F" alt="vivek Spring Boot" />
+                        <img className="m-1" src="https://img.shields.io/badge/-Angular-%23DD0031?style=flat&logo=angular&logoColor=white&labelColor=%23DD0031&color=%23DD0031" alt="vivek Angular" />
                         <img className=" m-1" src="https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=ffffff" alt="vivek next" />
                         <img className=" m-1" src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=ffffff" alt="vivek react" />
                         <img className="m-1" src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="vivek flutter" />
