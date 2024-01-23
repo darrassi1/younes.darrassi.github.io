@@ -241,6 +241,7 @@ export class Calc extends Component {
                 <div>C-style arbitary precision calculator (version 2.12.7.2)</div>
                 <div>Calc is open software.</div>
                 <div>[ type "exit" to exit, "clear" to clear, "help" for help.]</div>
+                <div>[ type 5+3 for 8]</div>
             <div className="text-white text-sm font-bold bg-ub-drk-abrgn" id="calculator-body">
                 {this.state.terminal}
             </div>
