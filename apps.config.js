@@ -29,7 +29,7 @@ const apps = [
     },
     {
         id: "about-vivek",
-        title: "About Vivek",
+        title: "About Younes Darrassi",
         icon: './themes/Yaru/system/user-home.png',
         disabled: false,
         favourite: true,
