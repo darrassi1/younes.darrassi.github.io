@@ -262,7 +262,7 @@ function Projects() {
             description: [
                 "Design and development of a web application for spa salons.",
             ],
-            domains: ["spring boot", "Spring Security" "thymeleaf", "spring data jpa"]
+            domains: ["spring boot", "Spring Security", "thymeleaf", "spring data jpa"]
         },
         {
             name: "football analytics",
@@ -384,6 +384,6 @@ function Projects() {
 }
 function Resume() {
     return (
-        <iframe className="h-full w-full" src="./files/younes-darrassi.pdf" title="vivek patel resume" frameBorder="0"></iframe>
+        <iframe className="h-full w-full" src="./files/YOUNES_DARRASSI-resume.pdf" title="vivek patel resume" frameBorder="0"></iframe>
     )
 }
