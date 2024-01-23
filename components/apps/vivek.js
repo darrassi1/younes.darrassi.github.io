@@ -162,7 +162,7 @@ function Education() {
                     <div className=" text-lg md:text-xl text-left font-bold leading-tight">
                         baccalaureate
                     </div>
-                    <div className=" text-sm text-gray-400 mt-0.5">2016 - 2018</div>
+                    <div className=" text-sm text-gray-400 mt-0.5">2015 - 2016</div>
                     <div className=" text-sm md:text-base">Maths, Physics, Chemistry</div>
                     <div className="text-sm text-gray-300 font-bold mt-1">Percentile Rank &nbsp; 94.1%</div>
                 </li>
@@ -199,6 +199,9 @@ function Skills() {
                 <div className="px-2 w-1/2">
                     <div className="flex flex-wrap justify-center items-start w-full mt-2">
                         <img className="m-1" src="https://img.shields.io/badge/-Docker-%232496ED?style=flat&logo=docker&logoColor=white&labelColor=%232496ED&color=%232496ED" alt="vivek Docker" />
+                        <img className="m-1" src="https://img.shields.io/badge/-Java-%23F7DF1E?style=flat&logo=java&logoColor=ffffff&labelColor=%23F7DF1E&color=%23181717" alt="vivek Java" />
+                        <img className="m-1" src="https://img.shields.io/badge/-AWS-%23232F3E?style=flat&logo=amazon-aws&logoColor=ffffff&labelColor=%23232F3E&color=%23FF9900" alt="vivek AWS" />
+                        <img className="m-1" src="https://img.shields.io/badge/-GitLab-%23FCA121?style=flat&logo=gitlab&logoColor=ffffff&labelColor=%23FCA121&color=%23181717" alt="vivek GitLab" />
                         <img className="m-1" src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A" alt="vivek javascript" />
                         <img className="m-1" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="vivek c++" />
                         <img className="m-1" src="http://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=ffffff" alt="vivek python" />
@@ -236,92 +239,75 @@ function Projects() {
     const project_list = [
         {
             name: "UbuntuOS Portfolio",
-            date: "Apr 2021",
-            link: "https://github.com/vivek9patel/vivek9patel.github.io",
+            date: "Jan 2024",
+            link: "https://github.com/darrassi1/younes.darrassi.github.io",
             description: [
                 "Personal portfolio website of theme Ubuntu 20.04, made using NEXT.js & tailwind CSS",
             ],
             domains: ["javascript", "next.js", "tailwindcss"]
         },
         {
-            name: "Chrome Extension React Bolierplate",
-            date: "Dec 2021",
-            link: "https://github.com/vivek9patel/chrome-extension-react-boilerplate",
+            name: "internship management application",
+            date: "Dec 2022",
+            link: "https://github.com/darrassi1/GestionDesStGES",
             description: [
-                "A boilerplate code to build a chrome extension with react and webpack",
+                "Design and development of a web-based internship management application",
             ],
-            domains: ["javascript", "chrome-extension"]
+            domains: ["Smfony CLI", "mysql", "doctrine", "Twig", "php MYAdmin"]
         },
         {
-            name: "CodeConnect",
+            name: "Spa",
             date: "Nov 2021",
             link: "https://github.com/vivek9patel/CodeConnect-frontend",
             description: [
-                "A multi-language pair-programming platform with the features of video meeting and whiteboard. Built with React.js, Tailwind CSS, Chakra UI, Express & Socket.io.",
+                "Design and development of a web application for spa salons.",
             ],
-            domains: ["javascript", "tailwindcss"]
+            domains: ["spring boot", "Spring Security" "thymeleaf", "spring data jpa"]
         },
         {
-            name: "Ad Free Spotify",
+            name: "football analytics",
             date: "Jun 2021",
-            link: "https://github.com/vivek9patel/ad-free-spotify",
+            link: "https://www.linkedin.com/posts/younes-darrassi_footballanalytics-machinelearning-sportsdata-activity-7069287124268642305-gsSE?utm_source=share&utm_medium=member_desktop",
             description: [
-                "Chrome extension to automatically mute/unmute Spotify tab when Advertisement starts and ends!",
+                "Development of a football match analysis system, calculating possession for each team, and integration into a Flask application.",
             ],
-            domains: ["javascript", "chrome-extension"]
+            domains: ["YOLOv5", "Flask", "Python"]
         },
         {
-            name: "economist.com Unlocked",
+            name: "Centralized BI Solution for COMMANDE_FOURNISSEUR",
             date: "Mar 2021",
-            link: "https://github.com/vivek9patel/economist.com-unlocked",
+            link: "https://github.com/darrassi1/Projet-BI-Talend-PowerBI",
             description: [
-                "A chrome extension to read Paid Articles for Free & with no Ads, no subscription, no memberships!",
+                "Development of a business intelligence (BI) application for a dataset, then I used Power BI to display charts enabling informed decision-making.",
             ],
-            domains: ["javascript", "chrome-extension"]
+            domains: ["Talend", "PowerBI"]
         },
         {
-            name: "Flutter banking app",
+            name: "Electrical Pylon Management Application",
             date: "Jan 2021",
-            link: "https://github.com/vivek9patel/flutter-banking-app",
+            link: "https://github.com/darrassi1/GestionDePyloneElectrique",
             description: [
-                "A Flutter & Firebase project for creating transactions between different Users and displaying the history of transactions done by all.",
+                "Design and development of a C# application for managing electrical pylons implemented with EF6 - Code First approach.",
             ],
-            domains: ["flutter", "firestore", "dart", "firebase auth"]
+            domains: [" Entité Framework 6", "UnitOfWork", "Views", ",GenericRepository"]
         },
         {
-            name: "CPU scheduling application",
+            name: "e-learning-Angular",
             date: "Dec 2020",
-            link: "https://github.com/vivek9patel/CPU-Scheduling-APP-React-Native",
+            link: "https://github.com/darrassi1/e-learning-Angular",
             description: [
-                "React Native Application to visualize the CPU Scheduling algorithms with different Processes and Animations with gannt chart.",
+                "Development of a Single Page Application for managing an e-learning platform.",
             ],
-            domains: ["react-native", "javascript"]
+            domains: ["Angular", "NodeJs", "Express", "Mysql"]
         },
         {
-            name: "Meditech Healthcare WebApp",
-            date: "Nov 2020",
-            link: "https://github.com/vivek9patel/Meditech-Healthcare",
+            name: "Internship 3DSF",
+            date: "Jul 2022",
+            link: "https://drive.google.com/drive/u/1/folders/1U-v0xbYAzJzxlB390C0o_EJBJbbteSWb",
             description: [
-                "Developed Web Application to predict and diagnose diseases from x-ray images.",
+                "Benchmark of ML & DL Models for PFA Internship in 3D on a Dataset of Dental & Mechanical Arches.",
             ],
-            domains: ["javascript", "html5", "sass", "firebase", "tensorflow"]
-        },
-        {
-            name: "Problem Recommendation System",
-            date: "Sep 2020",
-            link: "https://github.com/vivek9patel/Improve-Codeforces",
-            description: [
-                "Django web application to suggest practice problems from the areas in which the user struggles to get pass in code-forces.",
-            ],
-            domains: ["django", "python", "codeforces-api", "javascript"]
-        },
-        {
-            name: "Cleanliness Automation",
-            date: "Dec 2019",
-            link: "https://github.com/vivek9patel/CPU-Scheduling-APP-React-Native",
-            description: [
-                "Developed Web Applications to automate Garbage collection and extraction systems for SSIP hackathon",
-            ],
+            domains: ["Pytorch", "Pymesh", "firebase", "tensorflow"]
         }
     ];
 
