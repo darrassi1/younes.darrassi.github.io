@@ -9,6 +9,7 @@ on:
   pull_request:
     branches: [main]
 
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -30,7 +31,8 @@ jobs:
 
       - name: Building 🧱
         run: yarn build
-        
+    
+
       - name: Exporting Bundle Files 🎪
         run: yarn export
       - run: touch ./out/.nojekyll
