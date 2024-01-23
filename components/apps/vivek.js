@@ -257,8 +257,8 @@ function Projects() {
         },
         {
             name: "Spa",
-            date: "Nov 2021",
-            link: "https://github.com/vivek9patel/CodeConnect-frontend",
+            date: "Nov 2022",
+            link: "https://github.com/darrassi1/Gestion_SPA",
             description: [
                 "Design and development of a web application for spa salons.",
             ],
@@ -266,7 +266,7 @@ function Projects() {
         },
         {
             name: "football analytics",
-            date: "Jun 2021",
+            date: "Jan 2023",
             link: "https://www.linkedin.com/posts/younes-darrassi_footballanalytics-machinelearning-sportsdata-activity-7069287124268642305-gsSE?utm_source=share&utm_medium=member_desktop",
             description: [
                 "Development of a football match analysis system, calculating possession for each team, and integration into a Flask application.",
@@ -275,7 +275,7 @@ function Projects() {
         },
         {
             name: "Centralized BI Solution for COMMANDE_FOURNISSEUR",
-            date: "Mar 2021",
+            date: "May 2023",
             link: "https://github.com/darrassi1/Projet-BI-Talend-PowerBI",
             description: [
                 "Development of a business intelligence (BI) application for a dataset, then I used Power BI to display charts enabling informed decision-making.",
@@ -284,7 +284,7 @@ function Projects() {
         },
         {
             name: "Electrical Pylon Management Application",
-            date: "Jan 2021",
+            date: "May 2023",
             link: "https://github.com/darrassi1/GestionDePyloneElectrique",
             description: [
                 "Design and development of a C# application for managing electrical pylons implemented with EF6 - Code First approach.",
@@ -293,7 +293,7 @@ function Projects() {
         },
         {
             name: "e-learning-Angular",
-            date: "Dec 2020",
+            date: "Apr 2023",
             link: "https://github.com/darrassi1/e-learning-Angular",
             description: [
                 "Development of a Single Page Application for managing an e-learning platform.",
@@ -302,7 +302,7 @@ function Projects() {
         },
         {
             name: "Internship 3DSF",
-            date: "Jul 2022",
+            date: "Jul 2023",
             link: "https://drive.google.com/drive/u/1/folders/1U-v0xbYAzJzxlB390C0o_EJBJbbteSWb",
             description: [
                 "Benchmark of ML & DL Models for PFA Internship in 3D on a Dataset of Dental & Mechanical Arches.",
