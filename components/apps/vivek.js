@@ -105,7 +105,7 @@ export class AboutYounesDarrassi extends Component {
 
 export default AboutYounesDarrassi;
 
-export const displayAboutYounesDarrassi = () => {
+export const displayAboutVivek = () => {
     return <AboutYounesDarrassi />;
 }
 
