@@ -2,7 +2,7 @@
   "name": "younes.darrassi.github.io",
   "version": "2.0.0",
   "private": true,
-  "homepage": "https://darrassi1.github.io/younes.darrassi.github.io/",
+  "homepage": "younes.darrassi.github.io/",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
