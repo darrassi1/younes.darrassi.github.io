@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import ReactGA from 'react-ga4';
 
-export class AboutVivek extends Component {
+export class AboutYounesDarrassi extends Component {
 
     constructor() {
         super();
@@ -398,6 +398,6 @@ function Projects() {
 }
 function Resume() {
     return (
-        <iframe className="h-full w-full" src="./files/Vivek-Patel-Resume.pdf" title="vivek patel resume" frameBorder="0"></iframe>
+        <iframe className="h-full w-full" src="./files/younes-darrassi.pdf" title="vivek patel resume" frameBorder="0"></iframe>
     )
 }
